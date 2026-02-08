@@ -1,3 +1,45 @@
 <resources>
     <string name="app_name">My Application</string>
+
+    <!-- Animals descriptions -->
+
+    <string name="lion_desc">
+The lion is a wild animal that lives mainly in Africa.
+It is known as the king of the jungle and lives in groups called prides.
+</string>
+
+    <string name="cat_desc">
+The cat is a small domestic animal that lives with humans.
+Cats are known for their independence and playful behavior.
+</string>
+
+    <string name="dog_desc">
+The dog is a loyal domestic animal and a common pet.
+Dogs are known for helping humans and being friendly companions.
+</string>
+
+    <string name="elephant_desc">
+The elephant is a large wild animal that lives in Africa and Asia.
+It is known for its intelligence, strong memory, and long trunk.
+</string>
+
+    <string name="tiger_desc">
+The tiger is a powerful wild animal that lives mainly in Asia.
+It is known for its strength, orange fur, and black stripes.
+</string>
+
+    <string name="share">Share</string>
+    <string name="share_chooser">Share via</string>
+
+    <string name="animal_image">Animal image</string>
+
+    <string name="btn_lion">🦁</string>
+    <string name="btn_cat">🐱</string>
+    <string name="btn_dog">🐶</string>
+    <string name="btn_elephant">🐘</string>
+    <string name="btn_tiger">🐯</string>
+
+    <string name="btn_hebrew">Hebrow</string>
+    <string name="btn_english">English</string>
+
 </resources>

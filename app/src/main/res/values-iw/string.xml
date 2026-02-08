@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">אפליקציית חיות</string>
+
+    <!-- תיאורי חיות -->
+
+    <string name="lion_desc">
+האריה הוא חיית בר גדולה ועוצמתית החיה בעיקר באפריקה.
+הוא ידוע כמלך החיות, חי בלהקות,
+ומאופיין בכוח רב ובשאגה חזקה.
+    </string>
+
+    <string name="cat_desc">
+החתול הוא חיית מחמד קטנה החיה לצד בני אדם.
+חתולים ידועים בעצמאות שלהם,
+בזריזות ובהתנהגות סקרנית.
+    </string>
+
+    <string name="dog_desc">
+הכלב הוא חיית מחמד נאמנה וחברו הטוב של האדם.
+כלבים משמשים לשמירה, ליווי וסיוע,
+וידועים באופי חברותי ומגן.
+    </string>
+
+    <string name="elephant_desc">
+הפיל הוא חיית יבשה גדולה במיוחד החיה באפריקה ובאסיה.
+הוא ידוע בזיכרון המרשים שלו,
+באינטליגנציה גבוהה ובחדק הארוך.
+    </string>
+
+    <string name="tiger_desc">
+הטיגריס הוא טורף חזק ומהיר החי בעיקר באסיה.
+הוא מזוהה בזכות פרוותו הכתומה
+והפסים השחורים הייחודיים.
+    </string>
+
+    <string name="share">שיתוף</string>
+    <string name="share_chooser">שיתוף באמצעות</string>
+
+    <string name="animal_image">תמונה של חיה</string>
+
+    <string name="btn_lion">🦁</string>
+    <string name="btn_cat">🐱</string>
+    <string name="btn_dog">🐶</string>
+    <string name="btn_elephant">🐘</string>
+    <string name="btn_tiger">🐯</string>
+
+    <string name="btn_hebrew">עברית</string>
+    <string name="btn_english">אנגלית</string>
+
+</resources>
